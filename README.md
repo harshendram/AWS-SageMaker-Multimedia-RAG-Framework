@@ -12,7 +12,7 @@ In this project, I have provided a comprehensive solution for implementing gener
 
 2. **Efficient Information Retrieval**: Users can quickly find specific information and navigate to relevant sections in video/audio files, saving significant time.
 
-I have demonstrated how to integrate these outputs into RAG solutions using [SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/question-answering-using-retrieval-augmented-generation-with-foundation-models-in-amazon-sagemaker-jumpstart/). For OpenSearch integration, you can refer to [this guide](https://aws.amazon.com/blogs/machine-learning/build-a-powerful-question-answering-bot-with-amazon-sagemaker-amazon-opensearch-service-streamlit-and-langchain/) for modifications.
+I have demonstrated how to integrate these outputs into RAG solutions using [ Question answering using Retrieval Augmented Generation with foundation models in Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/question-answering-using-retrieval-augmented-generation-with-foundation-models-in-amazon-sagemaker-jumpstart/). For OpenSearch integration, you can refer to [Build a powerful question answering bot with Amazon SageMaker, Amazon OpenSearch Service, Streamlit, and LangChain](https://aws.amazon.com/blogs/machine-learning/build-a-powerful-question-answering-bot-with-amazon-sagemaker-amazon-opensearch-service-streamlit-and-langchain/) for modifications.
 
 ## Architecture
 
