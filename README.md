@@ -6,13 +6,13 @@
 
 Traditional LLM solutions like RAG and ChatBots primarily support text data sources, leaving a significant gap for organizations with extensive video and audio content. However, multimedia data represents one of the most important knowledge bases for organizations, and it's typically harder to search and extract information from than text.
 
-In this project, I provide a comprehensive solution for implementing generative AI on video and audio data with two primary use cases:
+In this project, I have provided a comprehensive solution for implementing generative AI on video and audio data with two primary use cases:
 
 1. **Enterprise Knowledge Enhancement**: Organizations can enrich their knowledge bases with existing video/audio data, making RAG more effective at retrieving relevant information.
 
 2. **Efficient Information Retrieval**: Users can quickly find specific information and navigate to relevant sections in video/audio files, saving significant time.
 
-I demonstrate how to integrate these outputs into RAG solutions using [SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/question-answering-using-retrieval-augmented-generation-with-foundation-models-in-amazon-sagemaker-jumpstart/). For OpenSearch integration, you can refer to [this guide](https://aws.amazon.com/blogs/machine-learning/build-a-powerful-question-answering-bot-with-amazon-sagemaker-amazon-opensearch-service-streamlit-and-langchain/) for modifications.
+I have demonstrated how to integrate these outputs into RAG solutions using [SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/question-answering-using-retrieval-augmented-generation-with-foundation-models-in-amazon-sagemaker-jumpstart/). For OpenSearch integration, you can refer to [this guide](https://aws.amazon.com/blogs/machine-learning/build-a-powerful-question-answering-bot-with-amazon-sagemaker-amazon-opensearch-service-streamlit-and-langchain/) for modifications.
 
 ## Architecture
 
@@ -61,7 +61,7 @@ I use data transcribed from video/audio files to build a RAG solution with LangC
 <p><em>Chatbot Solution Architecture</em></p>
 </div>
 
-I demonstrate how to use Streamlit, LangChain, and SageMaker to build a multi-functional chatbot that provides an interactive experience for users.
+I have demonstrated how to use Streamlit, LangChain, and SageMaker to build a multi-functional chatbot that provides an interactive experience for users.
 
 ### Deployment Guide
 
